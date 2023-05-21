@@ -1,0 +1,1 @@
+{"name":"Local: A - A","url":"c:\\Users\\Nayeemur Rahman\\Desktop\\New folder\\A - A.cpp","tests":[{"id":1668438708937,"input":"3 2 5\n2 2 2","output":"too late"},{"id":1668444141418,"input":"5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Nayeemur Rahman\\Desktop\\New folder\\A - A.cpp","group":"local","local":true}
